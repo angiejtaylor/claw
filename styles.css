@@ -113,3 +113,21 @@ h1 {
     font-size: 0.9rem;
   }
 }
+
+.machine p strong {
+  color: #ff69eb;
+}
+
+.machine p {
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.ratings p {
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
+.ratings strong {
+  color: #ff69eb;
+}
